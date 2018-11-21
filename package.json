@@ -1,0 +1,10 @@
+{
+  "name": "Andraste",
+  "version": "0.0.1",
+  "description": "Ultra secret project",
+  "main": "index.js",
+  "repository": "https://github.com/Yuket/Andraste.git",
+  "author": "Mathieu Huchet <spaceyuket@gmail.com>",
+  "license": "Apache License 2.0",
+  "private": false
+}
