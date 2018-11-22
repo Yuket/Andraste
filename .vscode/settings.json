@@ -1,0 +1,13 @@
+{
+  "typescript.validate.enable": true,
+  "javascript.format.enable": false,
+  "files.exclude": {
+    "**/public": true,
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/coverage": true,
+    "**/public": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never"
+}
