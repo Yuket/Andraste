@@ -4,7 +4,6 @@
   "description": "Ultra secret project",
   "main": "index.js",
   "repository": "https://github.com/Yuket/Andraste.git",
-  "author": "Mathieu Huchet <spaceyuket@gmail.com>",
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "private": false
 }
